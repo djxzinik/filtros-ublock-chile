@@ -1,0 +1,8 @@
+! salta paywall de biobio
+https://www.biobiochile.cl/assets/js/block/bbcl-annoying-block.css
+https://www.biobiochile.cl/assets/js/block/bbcl-annoying-block.es.js
+
+! salta paywall de la tercera
+www.latercera.com##html:style(overflow: scroll !important;)
+www.latercera.com##body:style(overflow: scroll !important;)
+www.latercera.com##.paywall:style(display: none !important;)
