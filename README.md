@@ -3,7 +3,7 @@ Mi humilde y famelica colección de bloqueos de paywall de sitios chilenos, por 
 
 ### filtros para importar
 
-Acá dejo el [archivo](https://raw.githubusercontent.com/djxzinik/filtros-ublock-chile/mistress/filters.txt) con todos los filtros para ser agregado en ublock.
+Acá dejo el [archivo](https://raw.githubusercontent.com/djxzinik/filtros-ublock-chile/mistress/filtros.txt) con todos los filtros para ser agregado en ublock.
 
 
 ### filtros individuales
